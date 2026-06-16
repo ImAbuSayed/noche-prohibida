@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-prohibida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Noche prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-prohibida/) |
+| **Get License** | [Music Rights & Licensing for Noche prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-prohibida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, esta noche la calle es de los dos
+> Bajo las luces de neón, perdiendo la voz
+> Es una noche prohibida, sin pedir perdón
+> Pegaditos al ritmo, subiendo la tensión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
