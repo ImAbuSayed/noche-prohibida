@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-prohibida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Noche prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-prohibida/) |
+| **Get License** | [Secure Licensing Rights for Noche prohibida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-prohibida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6b75769270848702fccfd99b4995d15784ed9e5faf3232d2a34635e007a6dbb5` |
 | **Timestamp** | June 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

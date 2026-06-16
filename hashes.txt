@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Noche prohibida
+
+This log tracks the cryptographic history and versioning for the song **Noche prohibida** (noche-prohibida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T23:11:44.714349 | `v1` | `6b75769270848702fccfd99b4995d15784ed9e5faf3232d2a34635e007a6dbb5` | `883b04806913b5382cd15a1d71dacbba0e330b289dfb5609f3d0242c080f74db` | `2026-06-16_noche-prohibida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
